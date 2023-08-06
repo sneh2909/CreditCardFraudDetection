@@ -1,6 +1,3 @@
-# CreditCardFraudDetector
-This project is focused on building a credit card fraud detection system using a dataset from Kaggle. The goal is to develop a machine learning model that can accurately detect fraudulent credit card transactions and minimize false positives.
-
 # Credit Card Fraud Detection Project
 
 This project is focused on building a credit card fraud detection system using a dataset from Kaggle. The goal is to develop a machine learning model that can accurately detect fraudulent credit card transactions and minimize false positives.
@@ -11,10 +8,6 @@ This project is focused on building a credit card fraud detection system using a
 2. [Dataset](#dataset)
 3. [Installation](#installation)
 4. [Usage](#usage)
-5. [Model Training](#model-training)
-6. [Evaluation](#evaluation)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Introduction
 
